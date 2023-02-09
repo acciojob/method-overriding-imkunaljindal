@@ -22,9 +22,8 @@ public class Main {
         b.meth();
 
         B b1 = new B();
-        b1.meth();
+        b.meth();
 
-        ahasdnshiuAihiohoiAXUG
     }
   
 }
